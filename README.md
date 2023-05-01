@@ -18,7 +18,7 @@ EYE_AR_OPENINGを中央値に、EYE_AR_THRESHを中央値より0.03程小さく�
 ## How-To-Edit
 1. プロジェクトをクローン
 ```bash
-$ git clone git@github.com:tus18/work_support.git
+$ git clone git@github.com:tus18/WorkSupport.git
 ```
 
 2. コンパイル
